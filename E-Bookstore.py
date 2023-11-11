@@ -1,3 +1,4 @@
+# Importing sqlite3
 import sqlite3
 
 # Create book table if not exists and add default values
